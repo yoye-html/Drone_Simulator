@@ -124,7 +124,7 @@ safely above the 5m collision-avoidance threshold.
 
 The simulator produces a **6-panel figure** (`drone_aau.png`):
 
-![Drone Flight Simulator Output](https://github.com/user-attachments/assets/40af541e-cdc4-41ba-855d-26f681986452)
+![Drone Flight Simulator Output](./drone_aau.png)
 
 ```
 ┌─────────────────────────┬──────────────┐
